@@ -22,4 +22,6 @@
 # DEPLOYMENT ON HEROKU SERVER
 ### Real-time Interactive Web App on Heroku server
 #### web app has been deployed on Heroku.
+#### https://bankprediction123.herokuapp.com/
+
 
