@@ -25,4 +25,4 @@
 #### web app has been deployed on Heroku.
 #### https://bankprediction123.herokuapp.com/
 ## WHAT'S NEXT ?
-#### The model has been passed to UAT (User Acceptance test ). Once the UAT process is done we are palnning to release the model into production environment and monitor for couple of montths.
+#### The model has been passed to UAT (User Acceptance test ). Once the UAT process is done we are palnning to release the model into production environment and monitor for couple of months.
