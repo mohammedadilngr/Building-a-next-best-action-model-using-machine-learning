@@ -17,7 +17,7 @@
 ## REAL TIME ML-ARCHITECT
 ![Screenshot (45)](https://user-images.githubusercontent.com/86179272/132944330-ca8d172c-df79-4ef2-88a5-0aa4aa1298fe.png)
 ## MODEL BUILDING
-#### We are still working on stage 1 process where our main goal is to classify churn or active customers accurately .Once stage 1 is completed we are planning to release our model into production and monitor the results of our model. If our model is meets target we will be moving to next stage 2.
+#### We are still working on stage 1 process where our main goal is to classify churn or active customers accurately .Once stage 1 is completed we are planning to release our model into production and monitor the results of our model. If our model meets the target, we will be moving  onto next stage 2.
 #### Tried various machine algorithams and methods.
 #### Based on the precision and recall value or stability of model we chose random forest model.
 # DEPLOYMENT ON HEROKU SERVER
